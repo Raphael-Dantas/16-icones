@@ -1,0 +1,18 @@
+.fa-instagram {
+    font-size: 100px;
+}
+
+.fa-bitcoin {
+    font-size: 100px;
+    color: orange;
+}
+
+.fa-bitcoin:hover {
+    font-size: 110px;
+    color: green;
+}
+
+.fa-twitter {
+    color: aqua;
+    font-size: 100px;
+}
